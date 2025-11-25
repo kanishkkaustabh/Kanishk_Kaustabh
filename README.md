@@ -1,30 +1,18 @@
 # Hi, I'm Kanishk Kaustabh
 ## Business Analyst | Data Analytics Enthusiast
 
-### 🛠 Skills
-Excel, Tableau, Power BI, SQL, MySQL, Python, R, C, HTML, Advanced Excel, Agile, MS Office.
+Hi, I'm Santosh Raju Dabbiru - The TeluguWebGuru 👋
+*Python Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
-### 💼 Experience
-Business Analyst Intern – AI Variant.
-Finance Intern – Outlook Group.
+🔭 Current project: *ToDO APP* (Auth + Django + MySQL)
+✅ I write tests with pytest and use GitHub Actions (CI)
+🌱 Learning: caching, async, system design basics
+🌐 Portfolio/LinkedIn:   / teluguwebguru-santosh   • 📫 ceo@teluguwebguru.in
 
-### 📊 Projects
-Adventure Works Sales Analysis.
-Husk Utensils Sustainability Project.
-Psychological Impact Study.
+Tech
+Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
 
-### 🎓 Certificates
-Business Analytics – ExcelR.
-NISM Financial Analysis & Risk Management.
-
-### 🏆 Achievements
-State-Level Cricketer (U16, U19, U25, U23).
-Selected for U16 NCA India Camp.
-
-### 🔗 Contact
-LinkedIn: linkedin.com/in/kanishk-kaustabh-033aa8289
-Gmail: [kanishkkaustabh18@gmail.com](mailto:kanishkkaustabh18@gmail.com)
-
-
-
-If you want even *shorter* (5–6 lines), I can give that too.
+Projects (Pinned below)
+1. ToDO App – Auth, search, tests, CI
+2. School App – Django  + MySQL + async tasks
+3. E-Commerce App – Django + REST API  + React 
